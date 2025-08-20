@@ -3,3 +3,8 @@ margin: 0px;
 padding: 0px;
 font-family: sans-serif;
 }
+.container{
+    width: fit-content;
+    margin: auto;
+    display: flex;
+}
