@@ -8,3 +8,7 @@ font-family: sans-serif;
     margin: auto;
     display: flex;
 }
+.gallaryitem{
+    flex-basis: auto;
+    margin :17px;
+}
